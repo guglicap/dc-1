@@ -1,0 +1,274 @@
+dis_id,dis_type,event_name,location,start_year,start_month,start_day,end_year,end_month,end_day
+2012-0060-USA,Storm,NA,"Alabama, Tennessee, Illinois, Kentucky, Indiana, Ohio, Georgia, Florida, Mississippi, North Carolina, Virginia provinces",2012,3,2,2012,3,4
+2012-0234-USA,Storm,NA,District of Columbia province,2012,6,30,2012,6,30
+2012-0612-USA,Storm,NA,"Oklahoma, Kansas, Minnesota, Texas, Pennsylvania, New York provinces",2012,5,25,2012,5,30
+2012-0613-USA,Storm,NA,"Colorado, Wyoming provinces",2012,6,6,2012,6,7
+2012-0614-USA,Storm,NA,"Texas, New Mexico provinces",2012,6,11,2012,6,13
+2012-0615-USA,Storm,NA,"Ohio, Minnesota, Pennsylvania, Michigan, Wisconsin provinces",2012,7,2,2012,7,4
+2012-0616-USA,Storm,NA,"Missouri, Pennsylvania, Virginia, Arkansas, Oklahoma, Maryland, New York provinces",2012,9,7,2012,9,9
+2012-0010-USA,Storm,NA,"Jefferson, Chilton districts (Alabama province)",2012,1,22,2012,1,23
+2012-0055-USA,Storm,NA,"Nebraska, Kansas, Missouri, Illinois, Indiana, Kentucky provinces",2012,2,28,2012,2,29
+2012-0122-USA,Storm,NA,"Dallas, Tarrant districts (Texas province)",2012,4,2,2012,4,3
+2012-0156-USA,Storm,NA,"Oklahoma, Kansas, Iowa, Nebraska, South Dakota, Minnesota provinces",2012,4,14,2012,4,15
+2013-0334-USA,Storm,NA,"Colorado, Wyoming, Montana provinces",2013,8,2,2013,8,3
+2013-0142-USA,Storm,NA,"Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, New York, New Jersey, Pennsylvania provinces",2013,5,18,2013,5,22
+2013-0211-USA,Storm,NA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, New York, New Jersey, Pennsylvania, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia provinces",2013,6,12,2013,6,13
+2013-0013-USA,Storm,NA,"Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Colorado, Kansas, Montana, New Mexico, Oklahoma, Texas, Wyoming provinces",2013,1,29,2013,1,30
+2012-0410-USA,Storm,Hurricane Sandy,"New York, New Jersey, Pennsylvania, Connecticut, Ohio, Delaware, Rhode Island, Maryland, Massachusetts, Maine, New Hampshire, North Carolina, Vermont, Virginia, District of Columbia, West Virginia provinces",2012,10,28,2012,10,28
+2012-0313-USA,Storm,Hurricane Isaac,"Mississippi, Louisiana provinces",2012,8,28,2012,8,29
+2012-0486-USA,Storm,NA,"Wisconsin, Iowa, Nebraska, Kansas provinces",2012,12,19,2012,12,21
+2012-0493-USA,Storm,NA,"Texas, Louisiana, Alabama, Mississippi, Arkansas, Indiana, Pennsylvania, Virginia, New York, New Jersey provinces",2012,12,25,2012,12,27
+2012-0611-USA,Storm,NA,"Oregon, Washington provinces",2012,1,18,2012,1,23
+2012-0503-USA,Storm,NA,"Ohio, Virginia, Maryland, West Virginia, District of Columbia, Illinois, Indiana, Kentucky, New Jersey, North Carolina, South Carolina provinces",2012,6,28,2012,7,2
+2012-0601-USA,Storm,NA,"Missouri, Illinois, Kentucky, Texas, Indiana provinces",2012,4,28,2012,4,29
+2012-0177-USA,Flood,NA,"Bay, Calhoun, Escambia, Franklin, Gadsden, Gulf, Holmes, Jackson, Jefferson, Leon, Liberty, Madison, Okaloosa, Santa Rosa, Taylor, Wakulla, Walton, Washington districts (Florida province), Alabama, Mississippi, Louisiana provinces",2012,6,9,2012,6,12
+2012-0176-USA,Storm,Tropical storm Debby,"Bay, Calhoun, Escambia, Franklin, Gadsden, Gulf, Holmes, Jackson, Jefferson, Leon, Liberty, Madison, Okaloosa, Santa Rosa, Taylor, Wakulla, Walton, Washington, Brevard, Citrus, Hardee, Hernando, Hillsborough, Indian River, Lake, Manatee, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Volusia districts",2012,6,22,2012,6,27
+2012-0214-USA,Extreme temperature,NA,"District of Columbia, Iowa, Virginia, North Carolina provinces",2012,6,30,2012,7,19
+2012-0232-USA,Wildfire,Waldo Canyon Fire,"Colorado Springs city (El Paso district, Colorado province)",2012,6,23,2012,7,10
+2012-0542-USA,Wildfire,NA,"Cleveland, Creek, Oklahoma, Payne districts (Oklahoma province)",2012,8,3,2012,8,8
+2013-0354-USA,Flood,NA,"Lafayette, Lyons, Longmont towns (Boulder district, Colorado province), Larimer, El Paso, Broomfield districts (Colorado province), New Mexico province",2013,9,12,2013,9,19
+2013-0183-USA,Storm,NA,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia provinces",2013,5,15,2013,5,17
+2013-0439-USA,Storm,NA,"Illinois, Indiana, Kentucky, Ohio, Michigan, Wisconsin, Missouri provinces",2013,11,16,2013,11,18
+2013-0579-USA,Storm,NA,"Texas, Oklahoma, Louisiana provinces",2013,2,24,2013,2,25
+2013-0054-USA,Storm,NA,"Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania provinces",2013,2,8,2013,2,9
+2013-0472-USA,Storm,NA,"Oklahoma, Texas, California, New Mexico, Arizona provinces",2013,11,24,2013,11,24
+2013-0118-USA,Storm,NA,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin provinces",2013,4,17,2013,4,19
+2013-0184-USA,Storm,NA,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania provinces",2013,5,26,2013,6,6
+2013-0055-USA,Storm,NA,"South Dakota, North Dakota, Nebraska, Minnesota, Alabama, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia provinces",2013,2,9,2013,2,11
+2013-0550-USA,Storm,Cleon and Dion,"Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oklahoma, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Vermont, Virginia, West Virginia provinces",2013,12,1,2013,12,9
+2013-0528-USA,Extreme temperature,NA,"Michigan, Ohio, New York, Vermont, Maine, Kansas, Iowa, Texas, Wisconsin, Illinois, Minnesota, Arkansas, Louisiana, Mississippi, Kentucky provinces",2013,12,19,2013,12,22
+2013-0117-USA,Storm,NA,"California, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia provinces",2013,4,7,2013,4,11
+2013-0548-USA,Storm,NA,"Louisiana, South Carolina, Mississippi provinces",2013,3,18,2013,3,19
+2013-0254-USA,Flood,NA,"Cleveland, Lincoln, Catawba districts (North Carolina province), Pennsylvania province",2013,7,27,2013,7,28
+2013-0277-USA,Flood,NA,"Missouri, Kansas, Tennessee, Arkansas, Oklahoma provinces",2013,8,5,2013,8,12
+2013-0286-USA,Flood,NA,"San Antonio town (Bexar district, Texas province)",2013,5,25,2013,5,28
+2013-0291-USA,Flood,NA,"Iowa, Michigan, Minnesota, Wisconsin provinces",2013,4,22,2013,4,29
+2013-0510-USA,Flood,NA,Austin district (Texas province),2013,10,31,2013,11,10
+2013-0558-USA,Flood,NA,"Nelson, Carroll districts (Kentucky province)",2013,12,22,2013,12,31
+2013-0209-USA,Wildfire,NA,Los Angeles district (California province),2013,5,30,2013,6,8
+2013-0210-USA,Wildfire,NA,"Black Forest area (El Paso district, Colorado province)",2013,6,6,2013,6,20
+2013-0212-USA,Wildfire,NA,"Yarnell area (Yavapai district, Arizona province)",2013,6,28,2013,7,12
+2013-0315-USA,Wildfire,NA,"Yosemite valley (Mariposa district, California province)",2013,8,3,2013,9,1
+2013-0404-USA,Wildfire,NA,Shasta district (California province),2013,9,9,2013,9,15
+2014-0009-USA,Extreme temperature,NA,"New York, Minnesota, Georgia, Maryland, Alaska, Alabama, Mississippi, Louisiana, North Carolina, South Carolina, Ohio, Indiana, Illinois, Pennsylvania, Michigan, New Jersey, Virginia, Kentucky, Missouri provinces",2014,1,5,2014,1,8
+2014-0482-USA,Storm,NA,"Los Angeles, San Diego districts (California province), Oregon province",2014,12,10,2014,12,17
+2014-0263-USA,Storm,NA,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, Texas, Wyoming, Illinois, Indiana, Iowa, Michigan, Minnesota, Missouri, Ohio, South Dakota, Wisconsin, New York, New Jersey, Pennsylvania, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, Tennessee provinces",2014,7,26,2014,7,27
+2014-0126-USA,Storm,NA,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Mississippi, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Florida, Alabama, New York, New Jersey, Pennsylvania provinces",2014,4,27,2014,5,1
+2014-0444-USA,Storm,NA,"Arkansas, Louisiana, Alabama, Mississippi, Kentucky, Illinois, Texas provinces",2014,10,12,2014,10,14
+2014-0318-USA,Earthquake,NA,"San Francisco Bay (San Francisco district) , Napa Valley (Napa district) ; Sonoma, Solano district (California province) ; Vallejo, Mare Island cities (Solano district, California province)",2014,8,24,2014,8,24
+2014-0491-USA,Flood,NA,"Orange, Mariposa, Tuolumne, Los Angeles, San Francisco, Sacaramento districts (California province)",2014,12,2,2014,12,5
+2014-0192-USA,Storm,NA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, North Dakota, Ohio, South Dakota, Wisconsin, Kansas, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Arizona, Idaho, Montana, Nevada, New Mexico, Utah, Wyoming, New York, New Jersey, Pennsylvania, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut provinces",2014,5,18,2014,5,23
+2014-0540-USA,Storm,NA,"Blair area (Washington district, Nebraska province), Iowa, Kansas, Arkansas, Wyoming provinces",2014,6,3,2014,6,6
+2014-0048-USA,Storm,NA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania provinces",2014,2,2,2014,2,6
+2014-0072-USA,Storm,NA,"District of Columbia, New York, Georgia, South Carolina, North Carolina, Pennsylvania provinces",2014,2,11,2014,2,14
+2014-0052-USA,Storm,NA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Maine, Massachusetts, New Hampshire, Vermont, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Maryland provinces",2014,1,1,2014,1,5
+2014-0053-USA,Storm,NA,"Georgia, Alabama, Mississippi, Louisiana, North Carolina, South Carolina provinces",2014,1,26,2014,1,29
+2014-0100-USA,Storm,NA,"California, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Tennessee, New York, New Jersey, Pennsylvania provinces",2014,2,28,2014,3,4
+2014-0459-USA,Storm,NA,"New York, New Hampshire, Michigan provinces",2014,11,15,2014,11,19
+2014-0317-USA,Flood,NA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvanie, Maryland provinces",2014,8,11,2014,8,13
+2014-0310-USA,Storm,Hurricane Iselle,Hawaii province,2014,8,8,2014,8,10
+2014-0165-USA,Wildfire,NA,"Hutchinson district (Texas province), San Diego district (California province)",2014,5,11,2014,5,20
+2015-0211-USA,Storm,NA,"Texas, Oklahoma, Kansas, Nebraska, Missouri, Colorado, Minnesota, South Dakota provinces",2015,5,6,2015,5,13
+2015-0488-USA,Storm,NA,"Austin, Houston districts (Texas province), Lousiana province",2015,10,29,2015,11,3
+2015-0155-USA,Storm,NA,"Texas, Louisiana, Alabama, Mississippi, Kentucky, Georgia, Florida provinces",2015,4,24,2015,4,28
+2015-0180-USA,Storm,NA,"Kansas, Nebraska, Texas, Oklahoma, Minnesota, Iowa, Wisconsin provinces",2015,5,3,2015,5,5
+2015-0245-USA,Storm,NA,"Colorado, Illinois provinces",2015,6,3,2015,6,8
+2015-0138-USA,Storm,NA,"Fairdale area (DeKalb district, Illinois province), Rochelle town (Ogle district, Illinois province), Missouri, North Carolina, Indiana, Ohio, Kentucky, Texas, Iowa, Arkansas, Michigan, West Virginia, Wisconsin, Pennsylvania, Oklahoma, Kansas, Tennessee provinces",2015,4,7,2015,4,10
+2015-0326-USA,Storm,NA,"Illinois, Indiana, Wisconsin, Minnesota, Ohio, Iowa, Kentucky, Tennessee, Missouri, South Carolina, North Carolina",2015,7,12,2015,7,14
+2015-0401-USA,Wildfire,Valley Fire,"California, Idaho, Montana, Oregon, Washington provinces",2015,8,13,2015,8,31
+2015-0123-USA,Storm,NA,"Moore area (Cleveland district, Oklahoma province), Osage, Tulsa districts (Oklahoma province), Kansas, Missouri, Arkansas provinces",2015,3,25,2015,3,26
+2015-0400-USA,Storm,NA,"Chicago, Lincolnwood towns (Cook district, Illinois province), Wood Dale town (DuPage district, Illinois province), Lancaster town (Coos district, New Hampshire province), Indiana, Ohio, Connecticut, Michigan, Massachusetts, Wisconsin, Rhode Island, Maine, New York provinces",2015,8,2,2015,8,4
+2015-0565-USA,Flood,NA,"Mississippi, Missouri, Kentucky, Tennessee, Arkansas, Alabama, Illinois, Indiana, Louisiana provinces",2015,12,15,2016,1,6
+2015-0046-USA,Storm,Storm Octavia,"Tennessee, Kansas, District of Columbia, Boston, Ohio, Virginia, Georgia, North Carolina, South Carolina provinces",2015,2,16,2015,2,22
+2015-0072-USA,Storm,NA,"Illinois, Michigan, Massachusetts, New York, Connecticut, Indiana provinces",2015,1,31,2015,2,4
+2015-0558-USA,Storm,NA,"Dallas, Ellis, Collin districts (Texas province), Mississippi, Tennessee, Arkansas, Alabama, Georgia, New Mexico, Missouri, Kentucky, Indiana, Oklahoma, Illinois provinces",2015,12,26,2015,12,30
+2015-0531-USA,Storm,NA,"Texas, Kansas, Oklahoma provinces",2015,11,25,2015,12,4
+2015-0459-USA,Storm,Joaquin,"South Carolina, North Carolina",2015,10,1,2015,10,13
+2015-0026-USA,Storm,NA,"Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island",2015,1,26,2015,1,28
+2015-0212-USA,Flood,NA,"Texas, Oklahoma, Colorado, Arkansas, Kansas, Louisiana, Georgia, Ohio, South Carolina",2015,5,23,2015,5,30
+2015-0177-USA,Storm,NA,"Nashville town (Howard district, Arkansas province); Van town (Van Zandt district, Texas province), Delmond town (Douglas district, South Dakota province), Colorado, Oklahoma, Kansas, Iowa provinces",2015,5,6,2015,5,13
+2015-0025-USA,Storm,NA,"Illinois, Wisconsin, Pennsylvania provinces",2015,1,6,2015,1,11
+2015-0073-USA,Storm,NA,"Massachusetts, New York, Tennessee, Maryland, Virginia, Pennsylvania, Kentucky, North Carolina, Michigan, Rhode Island, New Hampshire, Ohio, South Carolina, Illinois, District of Columbia, Maine, Vermont provinces",2015,2,16,2015,2,22
+2015-0122-USA,Storm,NA,"New York, Pennsylvania, Kentucky, West Virginia, Arkansas provinces",2015,3,3,2015,3,5
+2015-0186-USA,Flood,NA,"San Marcos area (Hays district, Texas province), Claremore area (Hays district, Oklahoma province)",2015,5,24,2015,5,24
+2015-0431-USA,Flood,NA,"Hildale town (Washington district, Utah province), Las Vegas town (Clark district, Nevada province)",2015,9,14,2015,9,14
+2015-0421-USA,Wildfire,NA,"Lake, Napa, Sonoma, Butte districts (California province)",2015,9,13,2015,9,20
+2015-0613-USA,Wildfire,Butte fire,"Amador, Calaveras (California)",2015,9,9,2015,9,14
+2015-0312-USA,Wildfire,NA,"Lake, Napa, Solano, Yolo, Modoc, Colusa districts (California province)",2015,7,22,2015,8,13
+2015-0399-USA,Flood,NA,"Hillsborough, Pasco, Pinellas, Dixie, Taylor districts (Florida province)",2015,7,24,2015,8,5
+2016-0012-USA,Storm,NA,"Ventura, Orange, San Diego, Los Angles districts (California province)",2016,1,4,2016,1,8
+2016-0203-USA,Storm,NA,"Greenbier district (West Virginia province); Ohio, Indiana, Illinois, Wisconsin, Virginia",2016,6,22,2016,6,24
+2016-0125-USA,Storm,NA,"Texas, Oklahoma, Arkansas, Louisiana, Mississippi, Kansas, Virginia, North Carolina, Georgia, Missouri, Illinois, West Virginia provinces",2016,4,25,2016,5,4
+2016-0123-USA,Storm,NA,"Dallas-Fort Worth (Dallas, Wise, Tarrant, Denton, Parker), Wylie, Plano, Little Elm, Rockwall, Bettie, Emory in Collin, Denton, Upshur, Rockwall, Rains, San Antonio metro regions, Helotes, Alamo Heights, Kirby, Hollywood Park, Carrizo Springs, Terrel Hills (Bexar, Dimmit) (Texas), Oklahoma, Kansas, Missouri, Arkansas, Mississippi, Louisiana",2016,4,10,2016,4,15
+2016-0150-USA,Storm,NA,"Oklahoma, Colorado, Nebraska, Kansas, Iowa, Missouri, Arkansas, Illinois, Kentucky, Texas,Tennessee states",2016,5,8,2016,5,11
+2016-0086-USA,Storm,NA,"Texas, Mississippi, Louisiana, Florida provinces",2016,3,17,2016,3,18
+2016-0087-USA,Storm,NA,"Texas, Oklahoma, Louisiana, Arkansas, Mississippi, Alabama, Florida provinces",2016,3,22,2016,3,25
+2016-0124-USA,Flood,NA,"Fayette, Grimes, Harris, Parker counties, Houston districts (Texas province)",2016,4,16,2016,4,19
+2016-0183-USA,Flood,NA,"Texas, Oklahoma, Arkansas, Kansas, Nebraska provinces",2016,5,27,2016,6,2
+2016-0181-USA,Storm,NA,"Houston district (Texas province), Brenham city (Washington district, Texas province); Montana, Kansas, Missouri, Colorado",2016,5,21,2016,5,28
+2016-0085-USA,Storm,NA,"California, Lousiana, Texas, Arkansas, Tennessee, Mississippi, Alabama, Oklahoma, Kentucky, Ohio provinces",2016,3,4,2016,3,12
+2016-0010-USA,Storm,Storm Jonas (Snowzilla),"Washington D.C. (District of Columbia district, District of Columbia province), New York, New Jersey, Pennsylvania, Maryland, Virginia, Tennessee, Kentucky, Delaware, West Virginia, Georgia, North Carolina provinces",2016,1,23,2016,1,26
+2016-0051-USA,Storm,NA,"Alabama, Mississippi, Virginia, Connecticut, Florida, Georgia, Louisiana, Massachusetts, Maryland, North Carolina, New Jersey, New York, Pennsylvania, South Carolina, Texas",2016,2,22,2016,2,25
+2016-0206-USA,Wildfire,NA,California province,2016,6,25,2016,6,26
+2016-0264-USA,Wildfire,Sand Fire,"Los Angeles, San Francisco districts (California province)",2016,7,24,2016,8,1
+2016-0297-USA,Wildfire,Clayton Fire,"Lower Lake, Clearlake (Lake district, California province)",2016,8,13,2016,8,16
+2016-0170-USA,Flood,NA,"Palestine city (Anderson district, Texas province), Houston district (Texas province)",2016,4,30,2016,4,30
+2016-0292-USA,Flood,NA,"Louisiana, Mississippi, Missouri, Illinois, Indiana; Allamakee, Clayton, Fayette, Howard, Winneshiek counties (Iowa)",2016,8,9,2016,8,16
+2016-0322-USA,Storm,Hurricane Hermine,"Georgia, Florida, South Carolina, New York, New Jersey; Cedar Key, Florida, Aurora (North Carolina); Virginia Tidewater region",2016,9,1,2016,9,6
+2016-0331-USA,Flood,NA,"Minnesota; Buffalo, Chippewa, Clark, Columbia, Crawford, Eau Claire, Jackson, La Crosse, Monroe, Richland, Sauk, Trempealeau, and Vernon (Wisconsin); Allamakee, Benton, Black Hawk, Bremer, Buchanan, Butler, Cedar, Chickasaw, Delaware, Floyd, Franklin, Linn, Wright (Iowa)",2016,9,19,2016,9,23
+2016-0477-USA,Storm,NA,"Alabama, Mississippi, Tennessee, Georgia, South Carolina, Louisiana, North Carolina provinces",2016,11,26,2016,12,1
+2016-0521-USA,Storm,NA,"Northern (Missouri, Maryland, Oklahoma, Indiana, Michigan, New Mexico, Ohio, Virginia)",2016,12,13,2016,12,19
+2016-0355-USA,Storm,Hurricane 'Matthew',"Florida, Georgia, South Carolina, North Carolina, Virginia provinces",2016,10,8,2016,10,12
+2016-0550-USA,Storm,NA,"Texas, Oklahoma, Kansas, Missouri, Nebraska, Illinois, Indiana, Kentucky, Ohio",2016,4,24,2017,4,28
+2016-0493-USA,Earthquake,NA,Cushing (Oklahoma),2016,11,7,2016,11,7
+2016-0552-USA,Flood,NA,"Texas, Louisiana (Shreveport, Haugton), Arkansas, Mississipi",2016,3,8,2016,3,13
+2017-0039-USA,Storm,NA,"California, Nevada, Idaho, Colorado, Utah, Oregon states",2017,1,6,2017,1,13
+2017-0136-USA,Flood,NA,"East and West Canton (Van Zandt county) (Texas); Kampville (St Charles) (Missouri); Logan, Marion, Miles Station (Macoupin), Sumner (Lawrence), Pawnee (Sangamon) (Illinois); Natural Dam (Crawford), Mississipi, Clay (Arkansas); Oak ridge (Morehouse) (Louisiana) ; Labette (Kansas); Cameron (Le Flore) (Oklahoma); Goshen (Oldham) (Kentucky) ; Ohio; Pennsylvania; West Virginia ; Mississipi ; Alabama ; Tennesse ; Indiana",2017,4,28,2017,5,1
+2017-0336-USA,Storm,NA,"Tulsa (Oklahoma); Texas, Louisiana, Kansas, Missouri",2017,8,5,2017,8,8
+2017-0542-USA,Storm,NA,"Georgia, North Carolina, Maryland, Virginia, New York, New Jersey, Massachusetts, Michigan, Texas, Mississippi, Missouri",2017,12,31,2018,1,5
+2017-0062-USA,Storm,NA,"Center and south of California (San Diego, Los Angeles, San Francisco, Sacramento)",2017,2,8,2017,2,21
+2017-0234-USA,Storm,NA,"Colorado, Kansas, Illinois, Indiana, Texas (Gregg County, Tenneryville, Easton, Longview City), Oklahoma (Okfuskee), Missouri (Bates, Carthage, Laclede, Pulaski, Phelps, Dent, Texas Counties, Crawfordsville, Phillipsburg, Edgar Springs, Salem, Evening Shade, Palace, Big Piney), Arkansas, Ohio, Kentucky, Tennessee (Millington, Memphis, Knoxville), Virginia, Louisiana (Natchitoches, DeSoto, Caddo, Caldwell, Franklin, LaSalle, Winn, Rapides, Catahoula, Concordia Parishes, Goldonna), North Dakota, South Dakota, Minnesota, Iowa, Ohio, Pennsylvania, New York, North Carolina (Sampson County, Salemburg, Clinton), South Carolina, Georgia, New Mexico",2017,6,25,2017,6,29
+2017-0564-USA,Storm,NA,"Texas (Justin in Denton, Collin, Rockwall, Lubbock counties, Seymour in Baylor, Dallas – Fort Worth metro area, Houston metro area), Oklahoma (El Reno in Canadian, Oklahoma city metro region, Caddo in Bryan, Cleveland South and East), Kansas (south), Kentucky, Tennessee, Mississippi, Alabama, Georgia, Indianapolis (Marion-IN)",2017,3,25,2017,3,28
+2017-0362-USA,Storm,Hurricane Harvey,"Eastern Texas (Rockport, Corpus Chrsti, Port Lavaca, Cypress area of Houston, Houston metro area, Beaumont, Port Arthur, Angelina, Aransas, Atascosa, Austin, Bastrop, Bee, Bexar, Brazoria, Brazos, Burleson, Caldwell, Calhoun, Cameron, Chambers, Colorado, Comal, DeWitt, Fayette, Fort Bend, Galveston, Goliad, Gonzales, Grimes, Guadalupe, Hardin, Harris, Jackson, Jasper, Jefferson, Jim Wells, Karnes, Kerr, Kleberg, Lavaca, Lee, Leon, Liberty, Live Oak, Madison, Matagorda, Montgomery, Newton, Nueces, Orange, Polk, Refugio, Sabine, San Jacinto, San Patricio, Trinity, Tyler, Victoria, Walker, Waller, Washington, Wharton, Willacy, Wilson, San Augustine), Southwestern Louisiana (Acadia, Forrest, Iberia, Lafayette, Vernon, Beauregard, Calcasieu, Cameron (Hackberry), Jefferson Davis, Vermillion, Allen, Natchitoches, Rapides, Sabine)",2017,8,25,2017,8,29
+2017-0070-USA,Storm,NA,"Illinois, Missouri, Indiana, Arkansas, Kentucky, Tennessee, Ohio , Georgia, Iowa, North Carolina, Virginia, Alabama, South Carolina, West Virginia, Michigan states",2017,2,27,2017,3,2
+2017-0203-USA,Storm,NA,"Colorado, New Mexico, Texas, Oklahoma, Missouri",2017,5,9,2017,5,11
+2017-0563-USA,Storm,NA,"Missouri (Oak Grove in Jackson County, Clay and Clinton (Trimble, Plattsburg, Lathrop) counties), Iowa (Centerville in Appanoose county, Muscatine), Minnesota (Sherburne, Freeborn counties, Lake Ann in Carver county), Kansas (Wabaunsee, Pottawatomie and Butler counties), Wisconsin, Arkansas, Oklahoma, Illinois, Mississipi, Michigan, New-York, Pennsylvania, Massachussets, Ohio, Nebraska, Indiana",2017,3,6,2017,3,9
+2017-0253-USA,Storm,NA,"Minnesota (Minneapolis – St. Paul, MN metro region-Twin Cities, Lac Qui Parle County, Montevideo (Chippewa), Slayton (Murray), St. Cloud (Stearns), Monticello (Wright), Coon Rapids (Anoka)), Wisconsin (St. Croix), Upper Peninsula (Michigan), North Dakota (Richardson, Stark County, Morton County, Milton and Langdon in Cavalier County), South Dakota (Deuel, Jerauld, Beadle, and Clark Counties)",2017,6,9,2017,6,12
+2017-0512-USA,Storm,NA,"Missouri, Indiana (Bedford in Lawrence, Muncie in Delaware, Salem in Washington, Blackford, Jay), Ohio (Celina in Mercer, Williamsfield in Ashtabula, Clyde in Sandusky, Bloomingville in Erie , Republic, West Lodi in Seneca, Galion in Crawford, Steuben, Norwalk, Fitchville, Wakeman in Huron, Nova and Hayesville in Ashland, South Vienna in Wayne, Calcutta in Columbiana, Clark), Pennsylvania (Erie in Erie), Illinois (Noble in Richland)",2017,11,5,2017,11,6
+2017-0381-USA,Storm,Hurricane 'Irma',"Keys islands, Monroe, South Florida, Jacksonville (Duval), Marco Island, Naples (Collier), Fort Lauderdale (Broward), Lakeland (Polk), Orlando (Orange), Clay (Florida), Savannah, Tybee Island (Chatham), Brunswick, St. Simons Island (Glynn), McIntosh, Camden (Georgia), Charleston, Folly Beach, the Isle of Palms, Sullivan’s Island (Charleston) Hilton Head, Beaufort, Edisto Beach (Colleton) (South Carolina)",2017,9,10,2017,9,28
+2017-0108-USA,Storm,NA,"South Carolina, Georgia, North Carolina, Tennessee, Alabama, Mssissippi, Florida, Kentucky , Virginia",2017,3,13,2017,3,15
+2017-0022-USA,Storm,NA,"Georgia (cook), Mississippi, Alabama, Louisiana, Florida states",2017,1,18,2017,1,23
+2017-0282-USA,Flood,NA,"Ellison Creek (Water wheel) Tonto National Forest (Gila, Arizona)",2017,7,15,2017,7,15
+2017-0058-USA,Flood,NA,San Jose (North California),2017,2,22,2017,2,22
+2017-0383-USA,Storm,Hurricane 'Maria',"Jersey shore, Seaside Park, Point Pleasant Beach (Ocean), Long Branch (Monmouth) (New Jersey), Fernandina beach (Nassau-Florida)",2017,9,26,2017,9,27
+2017-0410-USA,Storm,Tropical depression'16/Hurricane 'Nate',"Mexico Gulf, Louisiania, Mississippi (coastal areas, Biloxi), Alabama (Dauphin Island, Autauga, Chilton, Lowndes Counties), Florida, South Carolina (Pickens, Laurens, Spartanburg, Newberry, Greenville, Union), North Carolina (Polk, Wilkes, Ashe )",2017,10,7,2017,10,8
+2017-0252-USA,Wildfire,"Wall Fire, Alamo Fire, Whittier Fire","Butte (Oroville), San Luis Obispo, Santa Barbara (California)",2017,7,6,2017,7,10
+2017-0434-USA,Wildfire,"Tubbs, Atlas, Nuns Fires","Napa, Sonoma, Mendocino, Lake, Solano, Butte, Yuba, Nevada, Humboldt, Calavaras, Orange counties (California)",2017,6,1,2017,12,31
+2017-9550-USA,Drought,NA,"Upper Midwest, Northern Rockies and parts of the West; North Dakota, South Dakota and Montana.",2017,3,1,2017,12,31
+2017-0511-USA,Wildfire,'Thomas',"Ventura, Santa Barbara, Los Angeles, San Diego, Riverside counties (California)",2017,12,4,2017,12,31
+2018-0111-USA,Storm,NA,"Massachusetts, New York, Virginia, Maryland, New Hampshire, New Jersey, Pennsylvania, Connecticut, Delaware",2018,3,1,2018,3,3
+2018-0130-USA,Flood,NA,Kauai Isl. (Hawai),2018,4,14,2018,4,15
+2018-0146-USA,Volcanic activity,Kilauea,Hawaï,2018,5,3,2018,5,30
+2018-0258-USA,Wildfire,Carr and Mendocino Complex fires,"Shasta, Trinity, Mendocino, Lake, Colusa, and Glenn counties (California)",2018,7,27,2018,8,31
+2018-0344-USA,Storm,NA,"Colorado, Nebraska, Wyoming",2018,8,6,2018,8,7
+2018-0129-USA,Storm,NA,"Louisiana, Mississippi, North Carolina, Virginia, Arkansas, Florida, Georgia, Maryland, Michigan , Missouri , New Jersey, New York,Pennsylvania , South Carolina, Texas",2018,4,13,2018,4,15
+2018-0419-USA,Flood,NA,"Bastrop, Burnet, Colorado, Fayette, Hood, Jim Wells, Kerr, Kimble, La Salle, Live Oak, Llano, Mason, McMullen, Nueces, Real, San Patricio, Travis, and Williamson counties",2018,10,15,2018,10,20
+2018-0045-USA,Storm,NA,"Massachusetts , New Jersey, New York, Connecticut, Maine, New Hampshire, Pennsylvania, Maryland, Rhode Island , South Carolina, Tennessee, Virginia, North Carolina, Georgia",2018,1,3,2018,1,5
+2018-0457-USA,Storm,NA,"New Mexico, Texas, Iowa, Minnesota, Kansas, Louisiana, Tennessee",2018,12,26,2018,12,28
+2018-0342-USA,Storm,Hurricane Florence,"South and North Carolina, Virginia",2018,9,12,2018,9,18
+2018-0373-USA,Storm,Hurricane Michael,"Florida, Georgia, Alabama, North Carolina, Virginia, Maryland",2018,10,10,2018,10,11
+2018-0279-USA,Storm,NA,"Pella, Marshalltown (Iowa); Missouri , Illinois, Indiana, Kansas, Kentucky, Alabama, Arkansas, Georgia, Tennessee, North Carolina, South Carolina, Viriginia, Maryland , Pennsylvania",2018,7,19,2018,7,22
+2018-0046-USA,Storm,NA,"Colorado, PLains and Midwest",2018,1,21,2018,1,24
+2018-0331-USA,Flood,NA,"Wisconsin, Iowa, Minnesota, Missouri, Illinois, Kentucky, Pennsylvania, Arkansas, Ohio, Indiana",2018,9,3,2018,9,11
+2018-0206-USA,Storm,NA,"New York City, Washington DC, Baltimore, Maryland, Texas, Kansas, Colorado, Oklahoma, Missouri, Illinois, Indiana, Iowa, New Jesey, Pennsylvania, Virginia, West Virginia, Massachusetts, Connecticut",2018,5,13,2018,5,15
+2018-0170-USA,Storm,Tropical storm 'Alberto',Southeast,2018,5,27,2018,5,30
+2018-0409-USA,Wildfire,Camp Fire,Butte county (North California),2018,6,1,2018,12,31
+2018-0468-USA,Wildfire,Woolsey Fire,"Thousand Oaks, Oak Park, Westlake Village, Agoura Hills, West Hills, Simi Valley, Chatsworth, Bell Canyon, Hidden Hills, Malibu and Calabasas (California)",2018,11,8,2018,11,21
+2019-0086-USA,Flood,NA,"Amador, Glenn, Lake, Mendocino, Sonoma, Humboldt counties (California)",2019,2,25,2019,3,1
+2019-0089-USA,Storm,NA,"Tennessee, Mississippi, Alabama, Illinois, Indiana, Ohio, Connecticut, Maryland, Massachusetts, New Jersey, New-York, Pennsylvania, Virginia, West Virginia states",2019,2,23,2019,2,25
+2019-0045-USA,Storm,NA,Midwest and Northeast,2019,1,18,2019,1,21
+2019-0090-USA,Flood,NA,Northern California,2019,2,26,2019,3,4
+2019-0160-USA,Storm,NA,"Robertson, Angelina, Houston and Cherokee Counties (Texas); Louisiana, Arkansas, Mississippi, Alabama, Georgia, North Carolina, Ohio, Pennyslvania",2019,4,13,2019,4,14
+2019-0250-USA,Storm,NA,"Jefferson city, Golden (Barry county), Carl Junction (Jasper county), Missouri state",2019,5,23,2019,5,31
+2019-0116-USA,Flood,NA,"Nebraska, Iowa, Wisconsin, Missouri, Kansas, Illinois, Minnesota, South Dakota, North Dakota, Michigan",2019,3,14,2019,3,31
+2019-0046-USA,Storm,NA,Upper midwest,2019,1,29,2019,1,31
+2019-0184-USA,Storm,NA,"Texas, Lousiana states",2019,4,24,2019,4,26
+2019-0007-USA,Storm,NA,"Missouri, Illinois, Iowa, Kansas, Nebraska, Washington DC, Virginia, Colorado, North, South Carolina",2019,1,11,2019,1,15
+2019-0081-USA,Storm,NA,"Alabama, Georgia, South Carolina, Florida, Mississippi,",2019,3,3,2019,3,4
+2019-0306-USA,Earthquake,NA,Ridgecrest (Califronia),2019,7,5,2019,7,5
+2019-0307-USA,Flood,NA,"Lincolnton region (Lincoln County, North Carolina)",2019,6,6,2019,6,9
+2019-0624-USA,Storm,NA,"Missouri, Nebraska, Indiana, Kansas, Louisiana, Mississippi, Alabama, Florida, Georgia",2019,12,16,2019,12,18
+2019-0593-USA,Storm,NA,"Pacific Northwest, Rockies, Northern Plains, Upper Midwest, and the Northeast",2019,11,27,2019,12,3
+2019-0412-USA,Storm,Tropical cyclone 'Dorian',"Florida, Georgia, South Carolina, North Carolina, Virginia",2019,8,28,2019,9,6
+2019-0417-USA,Storm,Tropical storm ' Imelda',Texas,2019,9,17,2019,9,21
+2019-0484-USA,Storm,NA,"Texas, Arkansas, Oklahoma, Missouri, Louisiana,Tennessee.",2019,10,20,2019,10,21
+2019-0335-USA,Storm,Tropical cylone 'Barry',"Louisiana, Mississippi, Arkansas, Oklahoma, Great Lakes region",2019,7,13,2019,7,15
+2019-0513-USA,Wildfire,Saddleridge fire & Sandalwood fire,Los Angeles and Riverside counties (California),2019,10,10,2019,10,17
+2019-0517-USA,Wildfire,Kincade Fire,"Los Angeles, San Bernardino, Ventura, Sonoma Counties (California)",2019,10,26,2019,10,31
+2020-0583-USA,Storm,NA,"Oklahoma, Arkansas, Indiana, Tennessee, Alabama, Georgia, Florida, South Carolina, Texas, Illinois, North Carolina",2020,5,20,2020,5,23
+2020-0538-USA,Storm,NA,"Illinois, Wisconsin, North Carolina, Virginia, Maryland",2020,11,10,2020,11,10
+2020-0474-USA,Storm,Hurricane 'Eta',"Florida, North Carolina, Virginia",2020,11,8,2020,11,12
+2020-0212-USA,Flood,NA,"Midland Country, Edenville, Sanford (Central Michigan State)",2020,5,17,2020,5,20
+2020-0190-USA,Storm,NA,"Illinois, Iowa, Wisconsin, Michigan, Indiana, Ohio, Kentucky, Arkansas, Tennessee, Missouri",2020,4,6,2020,4,9
+2020-0238-USA,Storm,NA,"Oklahoma, Missouri, Arkansas, Tennessee; Kansas, South Carolina",2020,5,2,2020,5,3
+2020-0148-USA,Storm,NA,"Louisiana, Texas, Mississippi, South Carolina, Georgia, Tennessee, Arkansas, North Carolina, Alabama",2020,4,10,2020,4,14
+2020-0167-USA,Storm,NA,"Texas, Oklahoma, Louisiana, Mississippi, Alabama, Georgia, Florida, Virginia",2020,4,21,2020,4,24
+2020-0011-USA,Storm,NA,"Texas, Oklahoma, Missouri, Arkansas, Louisiana, Mississippi, Alabama, Tennessee, Kentucky, Georgia states",2020,1,10,2020,1,12
+2020-0316-USA,Storm,Hurricane 'Hanna',Texas,2020,7,25,2020,7,25
+2020-0412-USA,Storm,Hurricane 'Delta',"Louisiana, Texas, Mississippi, Georgia, North and South Carolina",2020,10,7,2020,10,11
+2020-0438-USA,Storm,Hurricane 'Sally',"Alabama, Florida",2020,9,11,2020,9,18
+2020-0483-USA,Storm,Hurricane 'Zeta',"Louisiana, Mississippi, Alabama, northern Georgia, south and North Carolinas",2020,10,24,2020,10,30
+2020-0376-USA,Storm,Hurricane 'Laura',"Louisiana, Texas, Arkansas, Mississippi",2020,8,27,2020,8,28
+2020-0580-USA,Storm,NA,"Plains , Midwest, Mid-Atlantic",2020,8,8,2020,8,12
+2020-0584-USA,Storm,NA,South Texas,2020,5,27,2020,5,27
+2020-0082-USA,Storm,NA,"Nashville (Tennessee), Kentucky, Missouri, Mississippi, Georgia, Texas Oklahoma, Illinois, Indiana, Ohio, Arkansas, West Virginia, Pennsylvania",2020,3,2,2020,3,5
+2020-0582-USA,Storm,NA,"Missouri, Oklahoma, Texas, Illinois, Indiana, Ohio, Arkansas, Kentucky, Tennessee, West Virginia, Pennnsylvania",2020,3,27,2020,3,28
+2020-0089-USA,Flood,NA,"Mississippi, Tennessee",2020,2,10,2020,2,17
+2020-0219-USA,Storm,Tropical storm 'Cristobal',"errebonne, Plaquemines, Lafourche Parishes (Louisiana)",2020,6,7,2020,6,7
+2020-0312-USA,Storm,Hurricane 'Isaias',"North Carolina, South Carolina, New York, Maryland, Delaware, New Jersey, Connecticut, Florida, Virginia, Pennsylvania, New Hampshire",2020,7,31,2020,8,2
+2020-0441-USA,Wildfire,August Complex fire,"Californie, Washington, Oregon, Colorado",2020,8,16,2020,10,1
+2021-0011-USA,Storm,NA,Oregon and Washington States,2021,1,13,2021,1,15
+2021-0043-USA,Storm,NA,"San Mateo, Santa Cruz and Monterey Counties (California)",2021,1,24,2021,1,29
+2021-0266-USA,Storm,NA,"Alabama, Louisiana, Mississippi, Tennessee, Georgia, Texas, Virginia, Arkansas, South Carolina, North Carolina",2021,5,2,2021,5,4
+2021-0251-USA,Storm,NA,"Texas, Oklahoma",2021,4,27,2021,5,2
+2021-0487-USA,Storm,NA,"Arizona, Missouri, Nebraska, Iowa, South Dakota, North Dakota, New Mexico, Texas",2021,7,8,2021,7,11
+2021-0037-USA,Storm,NA,Jefferson county (Alabama),2021,1,24,2021,1,27
+2021-0305-USA,Storm,Storm 'Claudette',"Near Greenville, Butler county (Alabama); Louisiane, Mississippi, Floride",2021,6,18,2021,6,21
+2021-0117-USA,Flood,NA,"Todd, Christian, Breathitt, Lee and Magoffin Counties (Kentucky); Tennessee, West Virginia, Arkansas, Ohio, and Maryland",2021,2,25,2021,3,1
+2021-0442-USA,Flood,NA,Albuquerque (New Mexico); Larimer County (Colorado); Arizona,2021,7,16,2021,7,21
+2021-0199-USA,Storm,NA,"Louisiana, Florida, Mississippi, Alabama",2021,4,9,2021,4,11
+2021-0250-USA,Storm,NA,"Burnet, Williamson, Travis Counties (Texas)",2021,4,15,2021,4,16
+2021-0488-USA,Flood,NA,"Utah, Nevada, Arizona, New Mexico",2021,7,22,2021,7,28
+2021-0784-USA,Flood,NA,"Big Island, Maui, Molokai, Oahu Island (Hawai)",2021,12,3,2021,12,8
+2021-0096-USA,Storm,NA,"North Carolina, Oklahoma, Arkansas, Missouri, Illinois, Kentucky, Tennessee, Louisiana, Mississippi, Colorado, Oregon, Washington, Nebraska, Texas",2021,2,10,2021,2,20
+2021-0178-USA,Storm,NA,"Calhoun, Bibb, Jefferson, Shelby and Calhoun Counties (Alabama); Mississippi; Coweta and Fayette Counties (Georgia); Tennessee; Kentucky",2021,3,24,2021,3,26
+2021-0273-USA,Storm,NA,East Baton Rouge Parish (eastern Louisiana); Lake Charles City (south-western Louisiana),2021,5,14,2021,5,19
+2021-0373-USA,Storm,Hurricane 'Elsa',"California, Georgia, Florida, North Carolina, South Carolina",2021,7,2,2021,7,9
+2021-0531-USA,Storm,Tropical depression 'Henri',"Rhode Isl., Connecticut, Vermont, New York, New Jersey states",2021,8,20,2021,8,25
+2021-0532-USA,Storm,Tropical storm 'Fred',"Transylvania, Haywood, Swain counties (North Carolina); Florida",2021,8,17,2021,8,22
+2021-0551-USA,Storm,Tropical storm 'Ida',"Louisiana, New York, New Jersey, Maryland, Connecticut, Virginia, Pennsylvania, Delaware",2021,8,28,2021,9,2
+2021-0583-USA,Storm,Tropical storm 'Nicholas',"Texas, Louisiana",2021,9,12,2021,9,17
+2021-0211-USA,Storm,NA,Southern Louisiana and the Gulf Coast,2021,4,13,2021,4,15
+2021-0566-USA,Flood,NA,El Paso (Texas); Gila Bend (Arizona),2021,8,10,2021,8,16
+2021-0565-USA,Storm,NA,"Wisconsin, Illinois, Indiana, Michigan, Ohio, Missouri",2021,8,10,2021,8,13
+2021-0166-USA,Storm,NA,"Louisiana, Alabama,Mississippi",2021,3,16,2021,3,18
+2021-0797-USA,Storm,NA,"Graves County, Caldwell, Hopkins, Muhlenberg, Ohio, Warren, Taylor (Kentucky); Saint Charles (Missouri); Obion (Tennessee); (Mississippi); Craighead, Poinsett, Mississippi (Arkansas); Madison (Illinois)",2021,12,10,2021,12,11
+2021-0059-USA,Storm,NA,"New York, New Jersey, Pennsylvania, Virginia, Maine, Washington, Boston (Suffolk, Massachusetts)",2021,1,30,2021,2,2
+2021-0815-USA,Storm,NA,"Russell, Ellis, Lyon (Kansas); Floyd (Iowa); Missouri; Prowers, El Paso (Colorado); Nebraska; Freeborn (Minnesota); Wisconsin; Taos (New Mexico)",2021,12,15,2021,12,16
+2021-0335-USA,Flood,NA,"Bolivar, Sunflower, Panola, and Tallahatchie Counties (Mississippi State); Arkansas, Texas",2021,6,7,2021,6,10
+2021-0533-USA,Flood,NA,"Dickson, Humphrey, and Hickman Counties (Tennessee)",2021,8,21,2021,8,22
+2021-0562-USA,Flood,NA,Utah and Colorado,2021,7,30,2021,8,2
+2021-0733-USA,Flood,NA,"Jefferson, Shelby, Marshall, Escambia, Baldwin counties (Alabama)",2021,10,4,2021,10,7
+2021-0390-USA,Extreme temperature,NA,"Oregon, Washington, Northern California, Idaho, Western Nevada",2021,6,26,2021,6,30
+2021-0433-USA,Wildfire,Dixie fire,Plumas County (California),2021,7,13,2021,8,11
+2021-0526-USA,Wildfire,Caldor fire,El Dorado County (California),2021,8,13,2021,8,31
+2021-0150-USA,Flood,NA,"Hawai‘i, Maui, Kalawao, Kaua‘i, Honolulu (Oahu Island, Hawaii)",2021,3,8,2021,3,10
+2021-0193-USA,Flood,NA,"Davidson, Rutherford, Sullivan, Wilson counties; Nashville Metropolitan Region, Lower Mississippi and Tennessee Valley (Tennessee); Arkansas, Alabama, Georgia, Mississippi, South Carolina, North Carolina, Virginia, Pennsylvania, Maryland, New Jersey",2021,3,27,2021,3,28
+2021-0357-USA,Wildfire,Telegraph and Mescal Fires,"Pinas and Gila counties (Arizona); Montana, Utah",2021,6,6,2021,7,4
+2021-0410-USA,Wildfire,Bootleg Fire,"Arizona, California, Oregon",2021,7,6,2021,7,31
+2021-0626-USA,Wildfire,Fawn fire,Shasta County (north California State),2021,9,22,2021,9,30
+2021-0741-USA,Flood,NA,Whatcom County (northern Washington State),2021,11,13,2021,11,15
+2021-0832-USA,Wildfire,Middle Fork and the Marshall wildfires,"Louisville, Superior (Boulder county, Colorado)",2021,12,30,2022,1,1
+2022-0126-USA,Storm,NA,"Madison county (Iowa state); Illinois, Indiana, Ohio, Arkansas, Kentucky, New Hampshire, Pennsylvania, Maryland, New York, New Jersey, New England",2022,3,5,2022,3,7
+2022-0157-USA,Storm,NA,"Bastrop, Cass, Cooke, Grayson, Guadalupe, Houston, Jack, Madison, Marion, Montague, Nacogdoches, Panola, Rusk, Upshur, Williamson, and Wise counties (Texas); Oklahoma, Louisiana; Adams, Attala, Clay, Copiah, George, Hinds, Holmes, Jefferson, Kemper, Lauderdale, Madison, Smith, Warren, Oktibbehaand Yazoo Counties (Mississippi); Perry, Chilton, Bibb, Shelby, and Talladega Counties (Alabama); Ohio, South and North Carolina",2022,3,21,2022,3,23
+2022-0007-USA,Storm,NA,"Maryland, Virginia, New Jersey, Washington D.C., Missouri, Tennessee, Georgia",2022,1,2,2022,1,3
+2022-0080-USA,Storm,NA,"Hale, Sumter, Elmore Counties (central Alabama); Rockies, Plains, Mid-Atlantic, Northeasr",2022,2,1,2022,2,5
+2022-0132-USA,Wildfire,Adkins Ave Fire and Bertha Swamp Road Fires; Cottonwood Complex Fires,"Calhoun and Gulf Counties (Florida); Reno, Harvey Counties (Kansas)",2022,3,4,2022,3,9
+2022-0284-USA,Storm,NA,"Texas, North Carolina, West Virginia, Minnesota, Wisconsin, Oklahoma, Ohio, Pennsylvania",2022,5,5,2022,5,11
+2022-0212-USA,Storm,NA,"Williamson and Bell Counties (Texas); Pocahontas County (Iowa); Atoka and Coal counties (Oklahoma); Faulkner, Franklin, Logan, Prairie, Sebastian, and White Counties (Arkansas); Mower County (Minnesota); Jefferson, Shelby, Hardin Counties (Kentucky); Louisiana, Mississippi, Alabama, Tennessee, Indiana",2022,4,11,2022,4,14
+2022-0185-USA,Storm,NA,"Washington County (Arkansas); Shelby, Chilton, Bibb Counties (Alabama); Iowa, Kansas, Missouri; Newton county (Texas); Lousiana; Bolivar, Calhoun, Hinds, Warren, Yazoo Counties (Mississippi); Trigg County (Kentucky); Washington County (Florida); Armstrong County (Pennsylvania)",2022,3,29,2022,4,1
+2022-0818-USA,Storm,Storm 'Elliott',"South Dakota, Oregon, Washington, Idaho, New York, Oklahoma, Kentucky, Colorado, Connecticut, Kansas, Maryland, Missouri, North Carolina, West Virginia, Wisconsin, Georgia, New Hampshire, Ohio, Tennessee, Vermont states",2022,12,19,2022,12,29
+2022-0361-USA,Flood,NA,"Yellowstone National Park (Wyoming, Montana and Idaho states)",2022,6,11,2022,6,14
+2022-0261-USA,Storm,NA,Andover Town (Butler County); Wichita City (Sedgwick County) - Kansas; Texas; Oklahoma,2022,4,26,2022,5,5
+2022-0227-USA,Storm,NA,"Alabama, Arkansas, Florida, Mississippi,Oklahoma, and Texas",2022,4,15,2022,4,18
+2022-0244-USA,Storm,NA,"Nebraska, Kansas, Missouri, Dakota, Virginia, North Carolina, Texas, Montana, Minnesota",2022,4,21,2022,4,24
+2022-0486-USA,Wildfire,McKinney & Yeti Complex fires,Siskiyou County (California),2022,7,29,2022,8,1
+2022-0735-USA,Storm,NA,"Texas, Arkansas and Oklahoma",2022,11,4,2022,11,5
+2022-0614-USA,Storm,Hurricane 'Ian',Charlotte and Lee Counties (Florida Peninsula); North Carolina,2022,9,28,2022,10,2
+2022-0325-USA,Storm,NA,"Minnesota, Kentucly, Michigan, Missouri, Illinois, Wisconsin",2022,5,19,2022,5,26
+2022-0193-USA,Storm,NA,"Dallas Fort, Johnson, Collin, Smith counties (Texas); Marengo County (Alabama); Lee, Houston, Berkeley Counties (Georgia); Allendale county (South Carolina); Covington, Jefferson Davis, Lauderdale, Newton, Wayne Counties (Mississippi); Florida",2022,4,4,2022,4,7
+2022-0808-USA,Earthquake,NA,Humboldt County (California),2022,12,20,2022,12,20
+2022-0811-USA,Storm,NA,"Louisiana, Oklahoma, Texas, Alabama, Mississippi, Georgia, Florida states",2022,12,12,2022,12,15
+2022-0734-USA,Storm,Hurricane 'Nicole',"Bahamas, Florida",2022,11,10,2022,11,11
+2022-0246-USA,Wildfire,Calf Canyon and Hermits Peak Fires,"Mora, Colfax, Lincoln, San Miguel, Valencia Counties (New Mexico); Colorado, Nebraska",2022,4,6,2022,6,14
+2022-0480-USA,Flood,NA,"Kentucky, Missouri",2022,7,26,2022,7,31
